@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/northfoxgroup.github.io/nfg-ui/static/css/main.92920497.css",
+    "main.js": "/northfoxgroup.github.io/nfg-ui/static/js/main.e24ee141.js",
+    "static/media/logo.png": "/northfoxgroup.github.io/nfg-ui/static/media/logo.7f84c28a03b8deb4d249.png",
+    "static/media/iot.svg": "/northfoxgroup.github.io/nfg-ui/static/media/iot.aefe590169aef02b0e933afb3a58a5c1.svg",
+    "index.html": "/northfoxgroup.github.io/nfg-ui/index.html",
+    "main.92920497.css.map": "/northfoxgroup.github.io/nfg-ui/static/css/main.92920497.css.map",
+    "main.e24ee141.js.map": "/northfoxgroup.github.io/nfg-ui/static/js/main.e24ee141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92920497.css",
+    "static/js/main.e24ee141.js"
+  ]
+}
